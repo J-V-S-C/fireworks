@@ -1,13 +1,16 @@
 # WarAscci 
 
 Simple project using Go that shows a cli animation.
+[See Me](./war.gif)
+
+
+---
 
 ## What you need
 
 - Go 1.20+
 - Git
 
-[See Me](./war.gif)
 
 ## How can I run?
 

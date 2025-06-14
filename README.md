@@ -8,7 +8,7 @@ Simple project using Go that shows a cli animation.
 - Git
 
 ## Take a look!
-(./war.gif)
+[](./war.gif)
 
 ## How can I run?
 

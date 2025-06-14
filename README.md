@@ -1,7 +1,7 @@
 # WarAscci 
 
 Simple project using Go that shows a cli animation.
-[See Me](./war.gif)
+![Demo](./war.gif)
 
 
 ---
